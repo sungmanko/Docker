@@ -50,10 +50,9 @@ docker.io/store/oracle/database-enterprise:12.2.0.1
 
 それでは確認作業を行う。
 インストール後の基本情報は下記となる
-USER = sys / Oradoc_db1
-DB_SID=ORCLCDB
-DB_PDB=ORCLPDB1
-DB_MEMORY=2GB
-DB_DOMAIN=localdomain
-
+>USER = sys / Oradoc_db1
+>DB_SID=ORCLCDB
+>DB_PDB=ORCLPDB1
+>DB_MEMORY=2GB
+>DB_DOMAIN=localdomain
 
